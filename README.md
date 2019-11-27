@@ -1,5 +1,5 @@
 # Simple translator
- Simple translator from English to any language.
+ Simple translator from English to any language using Node.js
 
 Command to run: $ node translate
 
